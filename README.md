@@ -59,11 +59,11 @@ The project is organized into the following main directories:
 ### Screenshots
 
 #### Login/Signup Screen
-![Login/Signup Screen](Img/to/Login.png)
-![Login/Signup Screen](Img/to/SignUp.png)
+![Login/Signup Screen](Img/Login.png)
+![Login/Signup Screen](Img/SignUp.png)
 
 #### Homepage
-![Homepage](Img/to/HomePage.png)
+![Homepage](Img/HomePage.png)
 
 #### Admin Management
 ![Login/Signup Screen](Img/ModificaRicetta.png)
