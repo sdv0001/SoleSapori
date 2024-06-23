@@ -66,7 +66,7 @@ The project is organized into the following main directories:
 ![Homepage](Img/to/HomePage.png)
 
 #### Admin Management
-![Login/Signup Screen](Img/to/ModificaRicetta.png)
+![Login/Signup Screen](Img/ModificaRicetta.png)
 
 ## Contributing
 
